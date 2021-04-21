@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MauroMandorino
+- 👀 I’m interested in football data analysis
+- 📫 How to reach me: mauromandorino@gmail.com
