@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @MauroMandorino
 - 👀 I’m interested in football data analysis
 - 📫 How to reach me: mauromandorino@gmail.com
+- In this repository you will find my project work for the University of Rome "Foro Italico" Summer School
